@@ -20,8 +20,8 @@ public class Eggs {
 //        System.out.println(cost);
 //        System.out.println("You ordered " +numberEggs + " eggs. That's " + numberDozen + " dozen at $" + DOZEN +
 //                " per dozen and " + numberSingle + " loose eggs at " + SINGLE + " cents each for a total of $" + cost);
-        String outputString = String.format("You ordered %1$d eggs. That's %2$d dozen at %3$f per dozen and %4$d loose eggs at" +
-                " %5$f cents each for a total of $%6$",numberEggs, numberDozen, DOZEN, numberSingle, SINGLE, cost);
+        String outputString = String.format("You ordered %s eggs. That's %s dozen at %s per dozen and %s loose eggs at" +
+                " %s cents each for a total of $%s",numberEggs, numberDozen, DOZEN, numberSingle, SINGLE, cost);
         System.out.println(outputString);
     }
 }
