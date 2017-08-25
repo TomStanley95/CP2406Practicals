@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package Chapter03.DebuggingExercises;
 
 // This class calculates a waitperson's tip as 15% of the bill
 public class FixDebugThree1

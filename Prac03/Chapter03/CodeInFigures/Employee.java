@@ -1,3 +1,4 @@
+package Chapter03.CodeInFigures;
 public class Employee
 {
    private int empNum;

@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package Chapter03.DebuggingExercises;
 
 // This application displays some math facts
 public class FixDebugThree2

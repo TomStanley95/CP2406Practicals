@@ -1,5 +1,6 @@
+package Chapter03.CodeInFigures;
 import java.util.Scanner;
-class MethodsThatUseAnEmployee
+public class MethodsThatUseAnEmployee
 {
    public static void main (String args[])
    {

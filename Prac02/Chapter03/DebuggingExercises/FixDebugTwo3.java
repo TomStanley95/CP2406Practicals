@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package Chapter03.DebuggingExercises;
 
 public class FixDebugTwo3
 {

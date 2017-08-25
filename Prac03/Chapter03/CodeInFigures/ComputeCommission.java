@@ -1,4 +1,4 @@
-package CodeInFigures;
+package Chapter03.CodeInFigures;
 
 public class ComputeCommission
 {

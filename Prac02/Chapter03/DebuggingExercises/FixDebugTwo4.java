@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package Chapter03.DebuggingExercises;
 
 import javax.swing.JOptionPane;
 public class FixDebugTwo4

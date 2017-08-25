@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package Chapter03.DebuggingExercises;
 // This application gets a user's name and displays a greeting
 import java.util.Scanner;
 public class FixDebugThree3
